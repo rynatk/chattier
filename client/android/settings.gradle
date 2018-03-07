@@ -1,0 +1,3 @@
+rootProject.name = 'chattier'
+
+include ':app'
